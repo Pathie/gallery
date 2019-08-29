@@ -1,77 +1,175 @@
 {
+  "artstickers": [
+    {
+      "height": 2992,
+      "compressed_path": "./photos/artstickers/artsticker001.min.jpg",
+      "width": 2992,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker001.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker001.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker002.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker002.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker002.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker003.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker003.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker003.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker004.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker004.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker004.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker005.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker005.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker005.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker006.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker006.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker006.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker007.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker007.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker007.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker008.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker008.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker008.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker009.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker009.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker009.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker010.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker010.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker010.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker011.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker011.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker011.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker012.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker012.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker012.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker013.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker013.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker013.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker014.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker014.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker014.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/artstickers/artsticker015.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artsticker015.placeholder.jpg",
+      "path": "./photos/artstickers/artsticker015.jpg"
+    },
+    {
+      "height": 2701,
+      "compressed_path": "./photos/artstickers/artstickerset001.min.jpg",
+      "width": 2701,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artstickerset001.placeholder.jpg",
+      "path": "./photos/artstickers/artstickerset001.jpg"
+    },
+    {
+      "height": 1440,
+      "compressed_path": "./photos/artstickers/artstickerset002.min.jpg",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artstickerset002.placeholder.jpg",
+      "path": "./photos/artstickers/artstickerset002.jpg"
+    },
+    {
+      "height": 2834,
+      "compressed_path": "./photos/artstickers/artstickerset003.min.jpg",
+      "width": 2834,
+      "compressed": false,
+      "placeholder_path": "./photos/artstickers/artstickerset003.placeholder.jpg",
+      "path": "./photos/artstickers/artstickerset003.jpg"
+    },
+  {
+    "height": 3024,
+    "compressed_path": "./photos/artstickers/artstickerset004.min.jpg",
+    "width": 3024,
+    "compressed": false,
+    "placeholder_path": "./photos/artstickers/artstickerset004.placeholder.jpg",
+    "path": "./photos/artstickers/artstickerset004.jpg"
+  },
+  {
+    "height": 3024,
+    "compressed_path": "./photos/artstickers/artstickerset005.min.jpg",
+    "width": 3024,
+    "compressed": false,
+    "placeholder_path": "./photos/artstickers/artstickerset005.placeholder.jpg",
+    "path": "./photos/artstickers/artstickerset005.jpg"
+  },
+  {
+    "height": 1440,
+    "compressed_path": "./photos/artstickers/artstickerset006.min.jpg",
+    "width": 1440,
+    "compressed": false,
+    "placeholder_path": "./photos/artstickers/artstickerset006.placeholder.jpg",
+    "path": "./photos/artstickers/artstickerset006.jpg"
+  }
+  ],
   "stationery": [
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard008.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard008.placeholder.jpg",
-      "path": "./photos/stationery/artcard008.jpg"
-    },
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard009.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard009.placeholder.jpg",
-      "path": "./photos/stationery/artcard009.jpg"
-    },
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard007.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard007.placeholder.jpg",
-      "path": "./photos/stationery/artcard007.jpg"
-    },
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard012.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard012.placeholder.jpg",
-      "path": "./photos/stationery/artcard012.jpg"
-    },
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard006.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard006.placeholder.jpg",
-      "path": "./photos/stationery/artcard006.jpg"
-    },
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard010.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard010.placeholder.jpg",
-      "path": "./photos/stationery/artcard010.jpg"
-    },
-    {
-      "height": 2956,
-      "compressed_path": "./photos/stationery/artcard004.min.jpg",
-      "width": 2956,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard004.placeholder.jpg",
-      "path": "./photos/stationery/artcard004.jpg"
-    },
-    {
-      "height": 1439,
-      "compressed_path": "./photos/stationery/artcard005.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard005.placeholder.jpg",
-      "path": "./photos/stationery/artcard005.jpg"
-    },
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard011.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard011.placeholder.jpg",
-      "path": "./photos/stationery/artcard011.jpg"
-    },
     {
       "height": 3024,
       "compressed_path": "./photos/stationery/artcard001.min.jpg",
@@ -95,176 +193,79 @@
       "compressed": false,
       "placeholder_path": "./photos/stationery/artcard003.placeholder.jpg",
       "path": "./photos/stationery/artcard003.jpg"
-    }
-  ],
-  "artstickers": [
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker008.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker008.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker008.jpg"
     },
     {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker009.min.jpg",
-      "width": 3024,
+      "height": 2956,
+      "compressed_path": "./photos/stationery/artcard004.min.jpg",
+      "width": 2956,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker009.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker009.jpg"
+      "placeholder_path": "./photos/stationery/artcard004.placeholder.jpg",
+      "path": "./photos/stationery/artcard004.jpg"
     },
     {
-      "height": 2701,
-      "compressed_path": "./photos/artstickers/artstickerset001.min.jpg",
-      "width": 2701,
+      "height": 1439,
+      "compressed_path": "./photos/stationery/artcard005.min.jpg",
+      "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset001.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset001.jpg"
-    },
+      "placeholder_path": "./photos/stationery/artcard005.placeholder.jpg",
+      "path": "./photos/stationery/artcard005.jpg"
+    }, 
     {
-      "height": 2834,
-      "compressed_path": "./photos/artstickers/artstickerset003.min.jpg",
-      "width": 2834,
+      "height": 1440,
+      "compressed_path": "./photos/stationery/artcard006.min.jpg",
+      "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset003.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset003.jpg"
+      "placeholder_path": "./photos/stationery/artcard006.placeholder.jpg",
+      "path": "./photos/stationery/artcard006.jpg"
     },
     {
       "height": 1440,
-      "compressed_path": "./photos/artstickers/artstickerset002.min.jpg",
+      "compressed_path": "./photos/stationery/artcard007.min.jpg",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset002.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset002.jpg"
+      "placeholder_path": "./photos/stationery/artcard007.placeholder.jpg",
+      "path": "./photos/stationery/artcard007.jpg"
     },
     {
       "height": 1440,
-      "compressed_path": "./photos/artstickers/artstickerset006.min.jpg",
+      "compressed_path": "./photos/stationery/artcard008.min.jpg",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset006.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset006.jpg"
+      "placeholder_path": "./photos/stationery/artcard008.placeholder.jpg",
+      "path": "./photos/stationery/artcard008.jpg"
     },
     {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artstickerset005.min.jpg",
-      "width": 3024,
+      "height": 1440,
+      "compressed_path": "./photos/stationery/artcard009.min.jpg",
+      "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset005.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset005.jpg"
+      "placeholder_path": "./photos/stationery/artcard009.placeholder.jpg",
+      "path": "./photos/stationery/artcard009.jpg"
+    }, 
+    {
+      "height": 1440,
+      "compressed_path": "./photos/stationery/artcard010.min.jpg",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/artcard010.placeholder.jpg",
+      "path": "./photos/stationery/artcard010.jpg"
     },
     {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artstickerset004.min.jpg",
-      "width": 3024,
+      "height": 1440,
+      "compressed_path": "./photos/stationery/artcard011.min.jpg",
+      "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset004.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset004.jpg"
+      "placeholder_path": "./photos/stationery/artcard011.placeholder.jpg",
+      "path": "./photos/stationery/artcard011.jpg"
     },
     {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker002.min.jpg",
-      "width": 3024,
+      "height": 1440,
+      "compressed_path": "./photos/stationery/artcard012.min.jpg",
+      "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker002.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker002.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker003.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker003.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker003.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker015.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker015.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker015.jpg"
-    },
-    {
-      "height": 2992,
-      "compressed_path": "./photos/artstickers/artsticker001.min.jpg",
-      "width": 2992,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker001.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker001.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker014.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker014.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker014.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker010.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker010.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker010.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker004.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker004.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker004.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker005.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker005.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker005.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker011.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker011.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker011.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker007.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker007.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker007.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker013.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker013.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker013.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker012.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker012.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker012.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker006.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker006.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker006.jpg"
+      "placeholder_path": "./photos/stationery/artcard012.placeholder.jpg",
+      "path": "./photos/stationery/artcard012.jpg"
     }
   ]
+  
 }
