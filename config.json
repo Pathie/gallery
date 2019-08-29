@@ -7,6 +7,14 @@
       "compressed": false,
       "placeholder_path": "./photos/stationery/artcard001.placeholder.jpg",
       "path": "./photos/stationery/artcard001.jpg"
+    },
+    {
+      "height": 1440,
+      "compressed_path": "./photos/stationery/artcard002.min.jpg",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/artcard002.placeholder.jpg",
+      "path": "./photos/stationery/artcard002.jpg"
     }
   ],
   "artstickers": [
