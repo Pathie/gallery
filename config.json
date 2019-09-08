@@ -1,271 +1,470 @@
 {
-  "artstickers": [
-    {
-      "height": 2992,
-      "compressed_path": "./photos/artstickers/artsticker001.min.jpg",
-      "width": 2992,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker001.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker001.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker002.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker002.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker002.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker003.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker003.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker003.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker004.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker004.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker004.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker005.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker005.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker005.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker006.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker006.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker006.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker007.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker007.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker007.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker008.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker008.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker008.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker009.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker009.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker009.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker010.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker010.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker010.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker011.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker011.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker011.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker012.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker012.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker012.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker013.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker013.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker013.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker014.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker014.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker014.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/artstickers/artsticker015.min.jpg",
-      "width": 3024,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artsticker015.placeholder.jpg",
-      "path": "./photos/artstickers/artsticker015.jpg"
-    },
-    {
-      "height": 2701,
-      "compressed_path": "./photos/artstickers/artstickerset001.min.jpg",
-      "width": 2701,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset001.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset001.jpg"
-    },
-    {
-      "height": 1440,
-      "compressed_path": "./photos/artstickers/artstickerset002.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset002.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset002.jpg"
-    },
-    {
-      "height": 2834,
-      "compressed_path": "./photos/artstickers/artstickerset003.min.jpg",
-      "width": 2834,
-      "compressed": false,
-      "placeholder_path": "./photos/artstickers/artstickerset003.placeholder.jpg",
-      "path": "./photos/artstickers/artstickerset003.jpg"
-    },
-  {
-    "height": 3024,
-    "compressed_path": "./photos/artstickers/artstickerset004.min.jpg",
-    "width": 3024,
-    "compressed": false,
-    "placeholder_path": "./photos/artstickers/artstickerset004.placeholder.jpg",
-    "path": "./photos/artstickers/artstickerset004.jpg"
-  },
-  {
-    "height": 3024,
-    "compressed_path": "./photos/artstickers/artstickerset005.min.jpg",
-    "width": 3024,
-    "compressed": false,
-    "placeholder_path": "./photos/artstickers/artstickerset005.placeholder.jpg",
-    "path": "./photos/artstickers/artstickerset005.jpg"
-  },
-  {
-    "height": 1440,
-    "compressed_path": "./photos/artstickers/artstickerset006.min.jpg",
-    "width": 1440,
-    "compressed": false,
-    "placeholder_path": "./photos/artstickers/artstickerset006.placeholder.jpg",
-    "path": "./photos/artstickers/artstickerset006.jpg"
-  }
-  ],
   "stationery": [
     {
       "height": 3024,
-      "compressed_path": "./photos/stationery/artcard001.min.jpg",
+      "compressed_path": "./photos/stationery/IMG_4299.min.jpg",
       "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard001.placeholder.jpg",
-      "path": "./photos/stationery/artcard001.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4299.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4299.jpg"
     },
     {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard002.min.jpg",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4306.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard002.placeholder.jpg",
-      "path": "./photos/stationery/artcard002.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4306.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4306.jpg"
     },
     {
-      "height": 2876,
-      "compressed_path": "./photos/stationery/artcard003.min.jpg",
-      "width": 2876,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4307.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard003.placeholder.jpg",
-      "path": "./photos/stationery/artcard003.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4307.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4307.jpg"
     },
     {
-      "height": 2956,
-      "compressed_path": "./photos/stationery/artcard004.min.jpg",
-      "width": 2956,
+      "height": 2882,
+      "compressed_path": "./photos/stationery/IMG_4298.min.jpg",
+      "width": 2882,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard004.placeholder.jpg",
-      "path": "./photos/stationery/artcard004.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4298.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4298.jpg"
     },
     {
-      "height": 1439,
-      "compressed_path": "./photos/stationery/artcard005.min.jpg",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4265.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard005.placeholder.jpg",
-      "path": "./photos/stationery/artcard005.jpg"
-    }, 
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard006.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard006.placeholder.jpg",
-      "path": "./photos/stationery/artcard006.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4265.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4265.jpg"
     },
     {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard007.min.jpg",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4259.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard007.placeholder.jpg",
-      "path": "./photos/stationery/artcard007.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4259.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4259.jpg"
     },
     {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard008.min.jpg",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4311.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard008.placeholder.jpg",
-      "path": "./photos/stationery/artcard008.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4311.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4311.jpg"
     },
     {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard009.min.jpg",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4305.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard009.placeholder.jpg",
-      "path": "./photos/stationery/artcard009.jpg"
-    }, 
-    {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard010.min.jpg",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard010.placeholder.jpg",
-      "path": "./photos/stationery/artcard010.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4305.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4305.jpg"
     },
     {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard011.min.jpg",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4310.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard011.placeholder.jpg",
-      "path": "./photos/stationery/artcard011.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4310.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4310.jpg"
     },
     {
-      "height": 1440,
-      "compressed_path": "./photos/stationery/artcard012.min.jpg",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4258.min.jpg",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/stationery/artcard012.placeholder.jpg",
-      "path": "./photos/stationery/artcard012.jpg"
+      "placeholder_path": "./photos/stationery/IMG_4258.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4258.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4270.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4270.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4270.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4264.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4264.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4264.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4248.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4248.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4248.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4260.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4260.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4260.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4301.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4301.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4301.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4249.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4249.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4249.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4288.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4288.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4288.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4277.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4277.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4277.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4289.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4289.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4289.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4239.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4239.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4239.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4290.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4290.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4290.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4253.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4253.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4253.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4252.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4252.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4252.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4285.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4285.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4285.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4287.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4287.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4287.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4250.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4250.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4250.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4278.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4278.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4278.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4279.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4279.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4279.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4251.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4251.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4251.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4245.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4245.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4245.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4292.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4292.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4292.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4286.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4286.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4286.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4282.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4282.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4282.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4296.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4296.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4296.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4241.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4241.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4241.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4309.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4309.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4309.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4308.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4308.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4308.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4254.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4254.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4254.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4283.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4283.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4283.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4295.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4295.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4295.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4281.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4281.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4281.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4280.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4280.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4280.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/stationery/IMG_4294.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/stationery/IMG_4294.placeholder.jpg",
+      "path": "./photos/stationery/IMG_4294.jpg"
+    }
+  ],
+  "prints & paintings": [
+    {
+      "height": 2830,
+      "compressed_path": "./photos/prints & paintings/IMG_4266.min.jpg",
+      "width": 2830,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4266.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4266.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4267.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4267.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4267.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4275.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4275.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4275.jpg"
+    },
+    {
+      "height": 2924,
+      "compressed_path": "./photos/prints & paintings/IMG_4276.min.jpg",
+      "width": 2924,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4276.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4276.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4238.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4238.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4238.jpg"
+    },
+    {
+      "height": 2829,
+      "compressed_path": "./photos/prints & paintings/IMG_4228.min.jpg",
+      "width": 2845,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4228.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4228.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4229.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4229.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4229.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4230.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4230.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4230.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4231.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4231.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4231.jpg"
+    },
+    {
+      "height": 2974,
+      "compressed_path": "./photos/prints & paintings/IMG_4227.min.jpg",
+      "width": 2974,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4227.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4227.jpg"
+    },
+    {
+      "height": 2869,
+      "compressed_path": "./photos/prints & paintings/IMG_4226.min.jpg",
+      "width": 2897,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4226.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4226.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4235.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4235.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4235.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4234.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4234.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4234.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/prints & paintings/IMG_4269.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4269.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4269.jpg"
+    },
+    {
+      "height": 2822,
+      "compressed_path": "./photos/prints & paintings/IMG_4268.min.jpg",
+      "width": 2822,
+      "compressed": false,
+      "placeholder_path": "./photos/prints & paintings/IMG_4268.placeholder.jpg",
+      "path": "./photos/prints & paintings/IMG_4268.jpg"
     }
   ]
-  
 }
