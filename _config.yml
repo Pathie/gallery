@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Twiggles
+title: Twiggles Art
 
 # The title on the web page
-full_name: Twiggles
+full_name: Twiggles Art
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: t_w_i_g_g_l_e_s
+instagram: twigglesart
 
 ######################
 # END OF CONFIG CODE #
@@ -45,7 +45,7 @@ description: Graphical Creature Artist Portfolio
 author: Patricia Lieske
 
 # Your email if you want it to be linked on the contact page
-author_email: atwiggleaday@gmail.com
+author_email: patricialieske@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
